@@ -1,6 +1,5 @@
-import React, { useState, useEffect }
-
-const SavedCandidates = () => {
+const SavedCandidate = (candidate: Candidate) => {
+    const [savedCandidate] => useState([]);
     
+};
 
-}
